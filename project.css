@@ -1,0 +1,50 @@
+body{
+    background-image: url('bg3.png');
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    background-size: 1300px;
+}
+header{
+    color: black;
+    background-color: white;
+    border-color: white;
+    border-width: 50px;
+    display: flex;
+    height: 50px;
+
+}
+
+
+.madh{
+    color: rgb(10, 3, 37);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+#links{
+    padding: 10px;
+    margin-left: 700px;
+}
+#links a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+}
+#links :hover{
+background-color: rgba(214, 207, 208, 0.292);
+    color: orange;
+    }
+    section{
+        
+    }
+    .box1{
+        background-color: rgb(69, 12, 109);
+        width
+    }
